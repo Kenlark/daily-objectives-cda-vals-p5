@@ -102,6 +102,7 @@ Seulement si le wargame bandit est au niveau 5 minimum :
 * [x] Comprendre les termes "local", "origin" et "upstream"
 * [x] Faire ses premiers commits sur les daily objectives (plusieurs commits par jour pour les débutants)
 * [x] Faire ses premiers pushs des daily-objectives sur son compte Github
+<<<<<<< HEAD
 * [x] Découvrir les conventions de nommage de son versionning avec la convention Angular :
   - [x] https://github.com/angular/angular/blob/main/CONTRIBUTING.md#-commit-message-format
   - [x] https://www.conventionalcommits.org/fr/v1.0.0/
@@ -116,6 +117,22 @@ Seulement si le wargame bandit est au niveau 5 minimum :
 #### Github
 
 - [x] Pimper son profile Github (belle du village)
+=======
+* [ ] Découvrir les conventions de nommage de son versionning avec la convention Angular :
+  - [x] https://github.com/angular/angular/blob/main/CONTRIBUTING.md#-commit-message-format
+  - [x] https://www.conventionalcommits.org/fr/v1.0.0/
+  - [ ] Renommer son dernier commit en respectant cette convention
+* [ ] Comprendre le fonctionnement des branches dans Git :
+  - [ ] Lister, changer, créer, supprimer des branches
+  - [ ] Quelle est la différence entre `Git switch` et `Git checkout`
+* [ ] Comprendre le merge dans Git
+  - [ ] Comprendre le "fast forward"
+  - [ ] Quelle est la différence entre un "commit" et un "merge commit" ?
+
+#### Github
+
+- [ ] Pimper son profile Github (belle du village)
+>>>>>>> 25e8ef2 (chore: marks a few tasks as completed for day 3)
 - [x] Configurer un tunnel SSH entre son local et son Github
 - [x] Découvrir l'interface de Github :
   - [x] Pull Requests
@@ -123,4 +140,7 @@ Seulement si le wargame bandit est au niveau 5 minimum :
   - [x] Issues
   - [x] Settings projet
   - [x] Settings profile
+<<<<<<< HEAD
 >>>>>>> 58fd8f1 (chore: update tasks for day 3 and mark them as completed)
+=======
+>>>>>>> 25e8ef2 (chore: marks a few tasks as completed for day 3)
