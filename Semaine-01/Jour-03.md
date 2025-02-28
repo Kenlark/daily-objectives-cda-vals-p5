@@ -118,6 +118,7 @@ Seulement si le wargame bandit est au niveau 5 minimum :
 #### Github
 
 - [x] Pimper son profile Github (belle du village)
+<<<<<<< HEAD
 =======
 * [ ] Découvrir les conventions de nommage de son versionning avec la convention Angular :
 =======
@@ -137,6 +138,8 @@ Seulement si le wargame bandit est au niveau 5 minimum :
 
 - [ ] Pimper son profile Github (belle du village)
 >>>>>>> 25e8ef2 (chore: marks a few tasks as completed for day 3)
+=======
+>>>>>>> 8c47e38 (chore: mark tasks as completed for day 3 and day 4)
 - [x] Configurer un tunnel SSH entre son local et son Github
 - [x] Découvrir l'interface de Github :
   - [x] Pull Requests
