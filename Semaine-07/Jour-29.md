@@ -12,12 +12,12 @@
 
 ### Concepts de base de la modélisation des données
 
-- [ ] Comprendre les fondements de la modélisation des données
-  - [ ] Les entités et leurs attributs
-  - [ ] Les relations et leurs cardinalités
-  - [ ] Les identifiants et les clés
-  - [ ] Les formes normales (1FN, 2FN, 3FN)
-  - [ ] Les dépendances fonctionnelles
+- [x] Comprendre les fondements de la modélisation des données
+  - [x] Les entités et leurs attributs
+  - [x] Les relations et leurs cardinalités
+  - [x] Les identifiants et les clés
+  - [x] Les formes normales (1FN, 2FN, 3FN)
+  - [x] Les dépendances fonctionnelles
 
 ### Premier pas vers le MCD (Modèle Conceptuel de Données)
 
