@@ -73,9 +73,17 @@
 
 ### Projet de conception
 
+<<<<<<< HEAD
 - [ ] Finaliser le MPD du projet
   - [ ] Compléter la documentation
   - [ ] Préparer les schémas visuels
   - [ ] Réviser la cohérence avec le MLD
   - [ ] Anticiper les cas d'utilisation
 >>>>>>> e93dc0a (docs(Jour-32.md, Jour-33.md): mark tasks as completed for MPD and project documentation)
+=======
+- [x] Finaliser le MPD du projet
+  - [x] Compléter la documentation
+  - [x] Préparer les schémas visuels
+  - [x] Réviser la cohérence avec le MLD
+  - [x] Anticiper les cas d'utilisation
+>>>>>>> a749699 (docs(Jour-32.md): mark project design tasks as completed)
