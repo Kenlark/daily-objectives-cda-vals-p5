@@ -65,17 +65,25 @@
 
 ### Présentation du projet
 
-- [ ] Préparer la présentation finale
-  - [ ] Créer les supports visuels
-  - [ ] Structurer l'argumentation
-  - [ ] Mettre en avant les points forts
-  - [ ] Préparer les réponses aux questions
+- [x] Préparer la présentation finale
+  - [x] Créer les supports visuels
+  - [x] Structurer l'argumentation
+  - [x] Mettre en avant les points forts
+  - [x] Préparer les réponses aux questions
 
 ### Bilan et perspectives
 
+<<<<<<< HEAD
 - [ ] Faire le point sur les acquis
   - [ ] Auto-évaluation des compétences
   - [ ] Identification des points forts
   - [ ] Définition des axes d'amélioration
   - [ ] Perspectives d'évolution
 >>>>>>> e93dc0a (docs(Jour-32.md, Jour-33.md): mark tasks as completed for MPD and project documentation)
+=======
+- [x] Faire le point sur les acquis
+  - [x] Auto-évaluation des compétences
+  - [x] Identification des points forts
+  - [x] Définition des axes d'amélioration
+  - [x] Perspectives d'évolution
+>>>>>>> 5c1127d (docs(Jour-33.md): mark presentation and evaluation tasks as completed)
