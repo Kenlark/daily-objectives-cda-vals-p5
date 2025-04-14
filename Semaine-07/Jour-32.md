@@ -32,8 +32,8 @@
 
 ### Projet de conception
 
-- [ ] Finaliser le MPD du projet
-  - [ ] Compléter la documentation
-  - [ ] Préparer les schémas visuels
-  - [ ] Réviser la cohérence avec le MLD
-  - [ ] Anticiper les cas d'utilisation
+- [x] Finaliser le MPD du projet
+  - [x] Compléter la documentation
+  - [x] Préparer les schémas visuels
+  - [x] Réviser la cohérence avec le MLD
+  - [x] Anticiper les cas d'utilisation
