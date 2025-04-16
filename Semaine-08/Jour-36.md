@@ -54,13 +54,13 @@
     - [x] REVOKE
     - [x] Impact sur les utilisateurs
 
-- [ ] Bonnes pratiques de sécurité
+- [x] Bonnes pratiques de sécurité
 
-  - [ ] Principe du moindre privilège
-  - [ ] Gestion des mots de passe
-  - [ ] Documentation des droits
+  - [x] Principe du moindre privilège
+  - [x] Gestion des mots de passe
+  - [x] Documentation des droits
 
-- [ ] Exercices pratiques
-  - [ ] Création des utilisateurs pour une application
-  - [ ] Mise en place des droits appropriés
-  - [ ] Tests de sécurité basiques
+- [x] Exercices pratiques
+  - [x] Création des utilisateurs pour une application
+  - [x] Mise en place des droits appropriés
+  - [x] Tests de sécurité basiques
