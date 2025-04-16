@@ -34,12 +34,12 @@
 
 ### Introduction à PostgreSQL
 
-- [ ] Découverte de PostgreSQL
+- [x] Découverte de PostgreSQL
 
-  - [ ] Histoire et philosophie de PostgreSQL
-  - [ ] Différences avec d'autres SGBD
-  - [ ] Avantages de PostgreSQL
-  - [ ] Cas d'usage adaptés
+  - [x] Histoire et philosophie de PostgreSQL
+  - [x] Différences avec d'autres SGBD
+  - [x] Avantages de PostgreSQL
+  - [x] Cas d'usage adaptés
 
 - [ ] Architecture de PostgreSQL
 
