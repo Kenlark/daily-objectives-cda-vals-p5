@@ -91,13 +91,14 @@
 
 ### Premiers pas pratiques
 
-- [ ] Création d'une première base de données
+- [x] Création d'une première base de données
 
-  - [ ] Utilisation de createdb
-  - [ ] Configuration des paramètres de base
-  - [ ] Gestion des encodages
-  - [ ] Gestion des collations
+  - [x] Utilisation de createdb
+  - [x] Configuration des paramètres de base
+  - [x] Gestion des encodages
+  - [x] Gestion des collations
 
+<<<<<<< HEAD
 - [ ] Navigation et manipulation de base
   - [ ] Connexion à une base
   - [ ] Création d'un schéma
@@ -105,3 +106,11 @@
   - [ ] Insertion de données de test
   - [ ] Requêtes simples de vérification
 >>>>>>> 98d8768 (docs(Jour-35.md): mark installation and configuration tasks as completed)
+=======
+- [x] Navigation et manipulation de base
+  - [x] Connexion à une base
+  - [x] Création d'un schéma
+  - [x] Création d'une table simple
+  - [x] Insertion de données de test
+  - [x] Requêtes simples de vérification
+>>>>>>> ccf930d (docs(Jour-35.md): mark practical steps as completed)
