@@ -122,14 +122,21 @@
     - [x] REVOKE
     - [x] Impact sur les utilisateurs
 
-- [ ] Bonnes pratiques de sécurité
+- [x] Bonnes pratiques de sécurité
 
-  - [ ] Principe du moindre privilège
-  - [ ] Gestion des mots de passe
-  - [ ] Documentation des droits
+  - [x] Principe du moindre privilège
+  - [x] Gestion des mots de passe
+  - [x] Documentation des droits
 
+<<<<<<< HEAD
 - [ ] Exercices pratiques
   - [ ] Création des utilisateurs pour une application
   - [ ] Mise en place des droits appropriés
   - [ ] Tests de sécurité basiques
 >>>>>>> 07c4336 (docs(Jour-36.md): mark database creation and user management tasks as completed)
+=======
+- [x] Exercices pratiques
+  - [x] Création des utilisateurs pour une application
+  - [x] Mise en place des droits appropriés
+  - [x] Tests de sécurité basiques
+>>>>>>> 11b242f (docs(Jour-36.md): mark security best practices and practical exercises as completed)
