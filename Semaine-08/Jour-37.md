@@ -6,6 +6,7 @@
 
 ### SQL - Data Definition Language (DDL) avec PostgreSQL
 
+<<<<<<< HEAD
 - [x] Création et gestion des bases de données
 
   - [x] CREATE DATABASE
@@ -25,6 +26,42 @@
     - [x] Modifier une colonne
     - [x] Supprimer une colonne
   - [x] DROP TABLE
+=======
+- [ ] Création et gestion des bases de données
+
+  - [ ] CREATE DATABASE
+  - [ ] DROP DATABASE
+  - [ ] Bonnes pratiques de nommage
+
+- [ ] Création et modification de tables
+
+  - [ ] Types de données de base
+    - [ ] Numériques (INTEGER, DECIMAL)
+    - [ ] Texte (VARCHAR, TEXT)
+    - [ ] Dates (DATE, TIMESTAMP)
+    - [ ] Booléens
+  - [ ] CREATE TABLE
+  - [ ] ALTER TABLE
+    - [ ] Ajouter une colonne
+    - [ ] Modifier une colonne
+    - [ ] Supprimer une colonne
+  - [ ] DROP TABLE
+
+- [ ] Gestion des contraintes
+
+  - [ ] PRIMARY KEY
+  - [ ] FOREIGN KEY
+  - [ ] NOT NULL
+  - [ ] UNIQUE
+  - [ ] DEFAULT
+  - [ ] CHECK (basique)
+
+- [ ] Index
+
+  - [ ] Création d'index simples
+  - [ ] Quand utiliser les index
+  - [ ] Impact sur les performances
+>>>>>>> d076d87 (docs: ajout jour 37)
 
 - [x] Gestion des contraintes
 
@@ -49,6 +86,7 @@
 
 ### SQL - Data Manipulation Language (DML) avec PostgreSQL
 
+<<<<<<< HEAD
 - [x] Requêtes de sélection (SELECT)
 
   - [x] Structure de base
@@ -72,6 +110,54 @@
   - [x] Bonnes pratiques
 
 - [x] Insertion de données
+=======
+- [ ] Requêtes de sélection (SELECT)
+
+  - [ ] Structure de base
+    - [ ] SELECT, FROM, WHERE
+    - [ ] ORDER BY, LIMIT
+    - [ ] GROUP BY, HAVING
+  - [ ] Opérateurs de comparaison
+    - [ ] =, <>, >, <, >=, <=
+    - [ ] BETWEEN, IN, LIKE
+    - [ ] IS NULL, IS NOT NULL
+  - [ ] Fonctions d'agrégation
+    - [ ] COUNT, SUM, AVG
+    - [ ] MIN, MAX
+
+- [ ] Jointures de tables
+
+  - [ ] INNER JOIN
+  - [ ] LEFT JOIN
+  - [ ] RIGHT JOIN
+  - [ ] Cas d'usage typiques
+  - [ ] Bonnes pratiques
+
+- [ ] Insertion de données
+
+  - [ ] INSERT INTO
+    - [ ] Insertion simple
+    - [ ] Insertion multiple
+    - [ ] INSERT INTO SELECT
+  - [ ] Gestion des erreurs courantes
+
+- [ ] Modification de données
+
+  - [ ] UPDATE
+    - [ ] Mise à jour simple
+    - [ ] Avec conditions WHERE
+    - [ ] Avec jointures
+  - [ ] Bonnes pratiques de sécurité
+
+- [ ] Suppression de données
+
+  - [ ] DELETE
+    - [ ] Avec conditions
+    - [ ] Bonnes pratiques
+  - [ ] TRUNCATE
+    - [ ] Différence avec DELETE
+    - [ ] Précautions à prendre
+>>>>>>> d076d87 (docs: ajout jour 37)
 
   - [x] INSERT INTO
     - [x] Insertion simple
