@@ -77,22 +77,22 @@
     - [x] INSERT INTO SELECT
   - [x] Gestion des erreurs courantes
 
-- [ ] Modification de données
+- [x] Modification de données
 
-  - [ ] UPDATE
-    - [ ] Mise à jour simple
-    - [ ] Avec conditions WHERE
-    - [ ] Avec jointures
-  - [ ] Bonnes pratiques de sécurité
+  - [x] UPDATE
+    - [x] Mise à jour simple
+    - [x] Avec conditions WHERE
+    - [x] Avec jointures
+  - [x] Bonnes pratiques de sécurité
 
-- [ ] Suppression de données
+- [x] Suppression de données
 
-  - [ ] DELETE
-    - [ ] Avec conditions
-    - [ ] Bonnes pratiques
-  - [ ] TRUNCATE
-    - [ ] Différence avec DELETE
-    - [ ] Précautions à prendre
+  - [x] DELETE
+    - [x] Avec conditions
+    - [x] Bonnes pratiques
+  - [x] TRUNCATE
+    - [x] Différence avec DELETE
+    - [x] Précautions à prendre
 
 - [ ] Exercices pratiques
   - [ ] Requêtes de sélection complexes
