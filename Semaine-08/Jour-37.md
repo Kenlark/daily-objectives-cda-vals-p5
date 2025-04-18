@@ -43,39 +43,39 @@
   - [x] Création d'une base de données pour un cas concret
   - [x] Mise en place des tables et relations
   - [x] Ajout des contraintes nécessaires
-  - [] Modification de structure existante
+  - [x] Modification de structure existante
 
 ### SQL - Data Manipulation Language (DML) avec PostgreSQL
 
-- [ ] Requêtes de sélection (SELECT)
+- [x] Requêtes de sélection (SELECT)
 
-  - [ ] Structure de base
-    - [ ] SELECT, FROM, WHERE
-    - [ ] ORDER BY, LIMIT
-    - [ ] GROUP BY, HAVING
-  - [ ] Opérateurs de comparaison
-    - [ ] =, <>, >, <, >=, <=
-    - [ ] BETWEEN, IN, LIKE
-    - [ ] IS NULL, IS NOT NULL
-  - [ ] Fonctions d'agrégation
-    - [ ] COUNT, SUM, AVG
-    - [ ] MIN, MAX
+  - [x] Structure de base
+    - [x] SELECT, FROM, WHERE
+    - [x] ORDER BY, LIMIT
+    - [x] GROUP BY, HAVING
+  - [x] Opérateurs de comparaison
+    - [x] =, <>, >, <, >=, <=
+    - [x] BETWEEN, IN, LIKE
+    - [x] IS NULL, IS NOT NULL
+  - [x] Fonctions d'agrégation
+    - [x] COUNT, SUM, AVG
+    - [x] MIN, MAX
 
-- [ ] Jointures de tables
+- [x] Jointures de tables
 
-  - [ ] INNER JOIN
-  - [ ] LEFT JOIN
-  - [ ] RIGHT JOIN
-  - [ ] Cas d'usage typiques
-  - [ ] Bonnes pratiques
+  - [x] INNER JOIN
+  - [x] LEFT JOIN
+  - [x] RIGHT JOIN
+  - [x] Cas d'usage typiques
+  - [x] Bonnes pratiques
 
-- [ ] Insertion de données
+- [x] Insertion de données
 
-  - [ ] INSERT INTO
-    - [ ] Insertion simple
-    - [ ] Insertion multiple
-    - [ ] INSERT INTO SELECT
-  - [ ] Gestion des erreurs courantes
+  - [x] INSERT INTO
+    - [x] Insertion simple
+    - [x] Insertion multiple
+    - [x] INSERT INTO SELECT
+  - [x] Gestion des erreurs courantes
 
 - [ ] Modification de données
 
