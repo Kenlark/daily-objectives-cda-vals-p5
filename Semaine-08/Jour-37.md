@@ -96,6 +96,7 @@
     - [x] Différence avec DELETE
     - [x] Précautions à prendre
 
+<<<<<<< HEAD
 - [x] Exercices pratiques
   - [x] Requêtes de sélection complexes
   - [x] Manipulation de données réelles
@@ -288,9 +289,21 @@
     - [ ] Différence avec DELETE
     - [ ] Précautions à prendre
 
+=======
+<<<<<<< HEAD
+>>>>>>> 28ca25a (docs(Jour-37.md): mark practical exercises as completed)
 - [ ] Exercices pratiques
   - [ ] Requêtes de sélection complexes
   - [ ] Manipulation de données réelles
   - [ ] Cas pratiques métier
 >>>>>>> 92490bc (docs: modif jour 37)
+<<<<<<< HEAD
 >>>>>>> c575eac (docs: modif jour 37)
+=======
+=======
+- [x] Exercices pratiques
+  - [x] Requêtes de sélection complexes
+  - [x] Manipulation de données réelles
+  - [x] Cas pratiques métier
+>>>>>>> 665883e (docs(Jour-37.md): mark practical exercises as completed)
+>>>>>>> 28ca25a (docs(Jour-37.md): mark practical exercises as completed)
