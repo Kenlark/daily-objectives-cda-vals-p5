@@ -141,16 +141,17 @@
     - [ ] INSERT INTO SELECT
   - [ ] Gestion des erreurs courantes
 
-- [ ] Modification de données
+- [x] Modification de données
 
-  - [ ] UPDATE
-    - [ ] Mise à jour simple
-    - [ ] Avec conditions WHERE
-    - [ ] Avec jointures
-  - [ ] Bonnes pratiques de sécurité
+  - [x] UPDATE
+    - [x] Mise à jour simple
+    - [x] Avec conditions WHERE
+    - [x] Avec jointures
+  - [x] Bonnes pratiques de sécurité
 
-- [ ] Suppression de données
+- [x] Suppression de données
 
+<<<<<<< HEAD
   - [ ] DELETE
     - [ ] Avec conditions
     - [ ] Bonnes pratiques
@@ -158,6 +159,14 @@
     - [ ] Différence avec DELETE
     - [ ] Précautions à prendre
 >>>>>>> d076d87 (docs: ajout jour 37)
+=======
+  - [x] DELETE
+    - [x] Avec conditions
+    - [x] Bonnes pratiques
+  - [x] TRUNCATE
+    - [x] Différence avec DELETE
+    - [x] Précautions à prendre
+>>>>>>> da8490e (docs(Jour-37.md): mark data modification and deletion tasks as completed)
 
   - [x] INSERT INTO
     - [x] Insertion simple
