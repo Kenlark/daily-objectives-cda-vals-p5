@@ -192,6 +192,7 @@
     - [x] Précautions à prendre
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 - [x] Exercices pratiques
   - [x] Requêtes de sélection complexes
   - [x] Manipulation de données réelles
@@ -387,6 +388,9 @@
 =======
 <<<<<<< HEAD
 >>>>>>> 28ca25a (docs(Jour-37.md): mark practical exercises as completed)
+=======
+<<<<<<< HEAD
+>>>>>>> d4fbc1e (docs(Jour-37.md): mark practical exercises as completed)
 - [ ] Exercices pratiques
   - [ ] Requêtes de sélection complexes
   - [ ] Manipulation de données réelles
@@ -396,9 +400,17 @@
 >>>>>>> c575eac (docs: modif jour 37)
 =======
 =======
+=======
+>>>>>>> 3ff085e (docs(Jour-37.md): mark practical exercises as completed)
 - [x] Exercices pratiques
   - [x] Requêtes de sélection complexes
   - [x] Manipulation de données réelles
   - [x] Cas pratiques métier
+<<<<<<< HEAD
 >>>>>>> 665883e (docs(Jour-37.md): mark practical exercises as completed)
+<<<<<<< HEAD
 >>>>>>> 28ca25a (docs(Jour-37.md): mark practical exercises as completed)
+=======
+=======
+>>>>>>> 3ff085e (docs(Jour-37.md): mark practical exercises as completed)
+>>>>>>> d4fbc1e (docs(Jour-37.md): mark practical exercises as completed)
