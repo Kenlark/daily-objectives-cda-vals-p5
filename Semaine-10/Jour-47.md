@@ -25,10 +25,10 @@
   - [x] Utiliser les structures conditionnelles
   - [x] Connaître les différentes structures répétitives
 
-- [ ] Découvrir le mécanisme de typage
+- [x] Découvrir le mécanisme de typage
 
-  - [ ] Comprendre les types existants
-  - [ ] Savoir convertir les variables d'un type à un autre
+  - [x] Comprendre les types existants
+  - [x] Savoir convertir les variables d'un type à un autre
 
 - [ ] Premiers pas en POO
 
