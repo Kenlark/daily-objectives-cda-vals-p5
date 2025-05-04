@@ -40,9 +40,9 @@
   - [x] Créer une instance
   - [x] Appeler une méthode d'instance
 
-- [ ] Comprendre et corriger les erreurs
+- [x] Comprendre et corriger les erreurs
 
-  - [ ] Lire un message de compilation
+  - [x] Lire un message de compilation
   - [ ] Stratégies de débogage de base
 
 - [ ] Pour aller plus loin (optionnel)
