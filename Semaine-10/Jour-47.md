@@ -52,7 +52,7 @@
   - [x] Savoir lire un fichier pom.xml
   - [x] Créer un 1er projet Web à l'aide de SpringBoot
 
-- [ ] Exercices pratiques
-  - [ ] TP fourni
+- [x] Exercices pratiques
+  - [x] TP fourni
   - [ ] Exercice Devinette
   - [ ] Exercice Calculatrice
