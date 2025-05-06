@@ -21,5 +21,5 @@
 
   - [x] Découverte du principe SOLID
 
-- [ ] Exercices pratiques
-  - [ ] Manipuler une liste d'objets (ajouter, supprimer, trier)
+- [x] Exercices pratiques
+  - [x] Manipuler une liste d'objets (ajouter, supprimer, trier)
