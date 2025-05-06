@@ -4,18 +4,21 @@
 
 ### Programmation Orientée Objet - Abstraction et Collections
 
-- [ ] Découverte de l'Abstraction
-  - [ ] Bilan sur l'héritage
-  - [ ] Notion de classes abstraites
-  - [ ] Notion d'interface
+- [x] Découverte de l'Abstraction
+
+  - [x] Bilan sur l'héritage
+  - [x] Notion de classes abstraites
+  - [x] Notion d'interface
 
 - [ ] Découvrir les Collections Java
+
   - [ ] List (ArrayList, LinkedList)
   - [ ] Set (HashSet, TreeSet)
   - [ ] Map (HashMap, TreeMap)
   - [ ] Utilisation des Generics
 
 - [ ] Initiation aux bonnes pratiques
+
   - [ ] Découverte du principe SOLID
 
 - [ ] Exercices pratiques
