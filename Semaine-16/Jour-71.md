@@ -27,12 +27,12 @@ Ressource : [Formation Docker](https://github.com/HachemiH/formation-docker)
 
 - [x] Bonnes pratiques
 
-  - [ ] Sécurité des images
-  - [ ] Optimisation des layers
-  - [ ] Documentation du Dockerfile
-  - [ ] Gestion des versions
+  - [x] Sécurité des images
+  - [x] Optimisation des layers
+  - [x] Documentation du Dockerfile
+  - [x] Gestion des versions
 
-- [ ] Travaux Pratiques
-  - [ ] Créer une image pour une application Node.js
-  - [ ] Optimiser l'image avec multi-stage build
-  - [ ] Publier l'image sur Docker Hub
+- [x] Travaux Pratiques
+  - [x] Créer une image pour une application Node.js
+  - [x] Optimiser l'image avec multi-stage build
+  - [x] Publier l'image sur Docker Hub
