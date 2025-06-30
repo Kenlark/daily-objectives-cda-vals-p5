@@ -2,8 +2,6 @@
 
 ## Objectifs du jour
 
-- [x] Finaliser les dailys précédents
-
 ### SQL Avancé
 
 - [x] Programmation SQL
