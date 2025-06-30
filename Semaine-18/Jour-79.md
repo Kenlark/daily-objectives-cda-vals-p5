@@ -24,4 +24,4 @@
   - [x] Ressources (qui, quoi, comment).
   - [x] Environnement de test requis.
   - [x] Critères d'acceptation (quand un test est considéré comme réussi).
-- [ ] Rédiger une première ébauche de plan de test pour son projet fil rouge.
+- [x] Rédiger une première ébauche de plan de test pour son projet fil rouge.
