@@ -19,18 +19,18 @@
   - [x] Interface utilisateur
     - [x] Gestion des entrées/sorties
 
-- [ ] Implémentation du Pattern MVC
+- [x] Implémentation du Pattern MVC
 
-  - [ ] Création des Modèles
-    - [ ] Définition des entités
-    - [ ] Logique métier
-  - [ ] Création des Vues
-    - [ ] Templates
-    - [ ] Rendu des données
-  - [ ] Création des Contrôleurs
-    - [ ] Routage
-    - [ ] Gestion des actions
-  - [ ] Comparer avec le pattern MVVM
+  - [x] Création des Modèles
+    - [x] Définition des entités
+    - [x] Logique métier
+  - [x] Création des Vues
+    - [x] Templates
+    - [x] Rendu des données
+  - [x] Création des Contrôleurs
+    - [x] Routage
+    - [x] Gestion des actions
+  - [x] Comparer avec le pattern MVVM
 
 - [ ] Bonnes Pratiques
 
