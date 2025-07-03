@@ -32,12 +32,12 @@
     - [x] Gestion des actions
   - [x] Comparer avec le pattern MVVM
 
-- [ ] Bonnes Pratiques
+- [x] Bonnes Pratiques
 
-  - [ ] Séparation des responsabilités
-  - [ ] Injection de dépendances
-  - [ ] Gestion des erreurs
-  - [ ] Documentation du code
+  - [x] Séparation des responsabilités
+  - [x] Injection de dépendances
+  - [x] Gestion des erreurs
+  - [x] Documentation du code
 
 - [ ] Projet Pratique
   - [ ] Développement d'une application simple (Brief Site e-commerce)
