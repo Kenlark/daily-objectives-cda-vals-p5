@@ -44,6 +44,6 @@
   - [ ] Application des patterns étudiés
   - [ ] Tests de l'architecture
   - [ ] Revue de code
-- [ ] Bonus
-  - [ ] Découverte de l'architecture micro-Services
-  - [ ] Comprendre le principe de l'API Gateway
+- [x] Bonus
+  - [x] Découverte de l'architecture micro-Services
+  - [x] Comprendre le principe de l'API Gateway
