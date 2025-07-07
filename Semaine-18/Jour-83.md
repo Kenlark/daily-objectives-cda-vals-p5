@@ -1,6 +1,6 @@
 # Objectifs journaliers
 
-## Vendredi 27/06/2025 :
+## Vendredi 04/07/2025 :
 
 ### Les Tests End-to-End (E2E)
 
@@ -10,9 +10,9 @@
 
 ### Découverte et pratique d'un outil ### Découverte et pratique d'un outil de test E2E
 
-- [ ] **Outils communs (cross-technologies) :** Playwright, Cypress.
-- [ ] Installer et configurer un outil de test E2E dans son projet.
-- [ ] Utiliser le "Test Recorder" de l'outil pour générer un premier script de test.
+- [ ] **Outils communs (cross-technologies) :** Playwright, Cypress
+- [ ] Installer et configurer un outil de test E2E dans son projet
+- [ ] Utiliser le "Test Recorder" de l'outil pour générer un premier script de test
 - [ ] Apprendre les commandes de base :
   - [ ] Naviguer vers une page (`goto`, `visit`).
   - [ ] Localiser des éléments (`getByRole`, `locator`, `get`).
