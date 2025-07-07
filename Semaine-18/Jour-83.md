@@ -10,11 +10,11 @@
 
 ### Découverte et pratique d'un outil ### Découverte et pratique d'un outil de test E2E
 
-- [ ] **Outils communs (cross-technologies) :** Playwright, Cypress
-- [ ] Installer et configurer un outil de test E2E dans son projet
-- [ ] Utiliser le "Test Recorder" de l'outil pour générer un premier script de test
-- [ ] Apprendre les commandes de base :
-  - [ ] Naviguer vers une page (`goto`, `visit`).
-  - [ ] Localiser des éléments (`getByRole`, `locator`, `get`).
-  - [ ] Interagir avec les éléments (`click`, `fill`, `type`).
-  - [ ] Écrire des assertions sur l'état de la page (`expect(page).toHaveTitle`, `expect(element).toBeVisible`) de test E2E.
+- [x] **Outils communs (cross-technologies) :** Playwright, Cypress
+- [x] Installer et configurer un outil de test E2E dans son projet
+- [x] Utiliser le "Test Recorder" de l'outil pour générer un premier script de test
+- [x] Apprendre les commandes de base :
+  - [x] Naviguer vers une page (`goto`, `visit`).
+  - [x] Localiser des éléments (`getByRole`, `locator`, `get`).
+  - [x] Interagir avec les éléments (`click`, `fill`, `type`).
+  - [x] Écrire des assertions sur l'état de la page (`expect(page).toHaveTitle`, `expect(element).toBeVisible`) de test E2E.
